@@ -1,0 +1,19 @@
+.pink {
+    background-color: rgb(187, 91, 131) ;
+    font-size: 20px;
+}
+#bigger {
+    font-size: 30px;
+}
+
+#extra-title {
+    color: rgb(45, 76, 218);
+    font-size: 40px;
+
+}
+
+#another-id {
+    font-weight: bolder;
+    font-size: 30px;
+    background-color: rgb(91, 187, 120);
+}
